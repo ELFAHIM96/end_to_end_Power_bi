@@ -10,7 +10,5 @@ This repository contains materials including:
 
 
 
-#### 🔴 What are the different Churn Segments ?
-
 
 
